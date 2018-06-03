@@ -1,0 +1,3 @@
+[newsbot]
+action_plugins = []
+parser_plugins = []
